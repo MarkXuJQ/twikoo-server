@@ -8,8 +8,8 @@
   ],
   "routes": [
     {
-      "src": "/api/twikko",
-      "dest": "/api/twikko.js"
+      "src": "/api/twikoo",
+      "dest": "/api/twikoo.js"
     },
     {
       "src": "/(.*)",
