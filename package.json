@@ -1,0 +1,11 @@
+{
+  "name": "twikoo-vercel",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "tkserver": "^1.7.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
