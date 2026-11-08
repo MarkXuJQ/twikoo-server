@@ -10,7 +10,7 @@ A Vercel-deployed Twikoo comment system server with Web Analytics integration.
 
 ## API Endpoint
 
-The Twikoo API is available at `/api/twikko`
+The Twikoo API is available at `/api/twikoo`.
 
 ## Web Analytics
 
@@ -59,7 +59,7 @@ npm run dev
 ```
 .
 ├── api/
-│   └── twikko.js       # Twikoo server API endpoint
+│   └── twikoo.js       # Twikoo server API endpoint
 ├── public/
 │   └── index.html      # Landing page with Web Analytics
 ├── package.json        # Project dependencies
@@ -69,7 +69,7 @@ npm run dev
 
 ## Dependencies
 
-- `tkserver`: Twikoo server implementation
+- `tkserver@2.0.17`: Twikoo 2.0 server implementation
 - `@vercel/analytics`: Vercel Web Analytics package (available for future enhancements)
 
 ## Learn More
